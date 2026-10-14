@@ -1,0 +1,8 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame">
+<g id="Vector">
+<path d="M3 3L9 9ZM9 3L3 9Z" fill="black"/>
+<path d="M3 3L9 9M9 3L3 9" stroke="white" stroke-width="1.8" stroke-linecap="round"/>
+</g>
+</g>
+</svg>
